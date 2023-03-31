@@ -1,3 +1,3 @@
-module github.com/chabad360/gomodtest/v2
+module github.com/chabad360/gomodtest
 
 go 1.20
